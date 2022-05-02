@@ -1,4 +1,4 @@
-# Probability-of-Language-Extinction
+# Probability of Language Extinction
 ![image](https://user-images.githubusercontent.com/22665704/166256551-cbd364e2-0a04-4a7d-a4f1-329ce605e757.png)
 
 
@@ -13,6 +13,7 @@ Some people argue that language loss, like species loss, is simply a fact of lif
 Another argument mirrors that of biodiversity conservation. Just as ecosystems provide a wealth of services for humanity – some known, others unacknowledged or yet to be discovered – languages, too, are ripe with possibility. They contain an accumulated body of knowledge, including about geography, zoology, mathematics, navigation, astronomy, pharmacology, botany, meteorology and more. 
 
 ## Object
+
 Our object was to create a model that classifies each language on the basis on their extinction probability
 
 ## Data Description
